@@ -35,7 +35,7 @@ You'll find a variety of problems including:
 - [x] Started April 2025
 - [ ] Consistency check: 30 days
 
-Check out my [LeetCode profile](https://leetcode.com/your-username) for live stats.
+Check out my [LeetCode profile](https://leetcode.com/u/AngelBern/) for live stats.
 
 ---
 
