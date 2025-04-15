@@ -11,7 +11,7 @@ To stay consistent and sharpen my coding skills by solving at least **one LeetCo
 
 ---
 Each solution file is named using the format:  
-`YYYY-MM-DD_<ProblemName>.<extension>`
+`YYYY-MM-DD_<ProblemNumber>_<ProblemName>.<extension>`
 
 ---
 
